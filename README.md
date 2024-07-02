@@ -1,3 +1,3 @@
 # giaodienbaitap
-Bài tập giải truyền thống sau đó thiết kế giao diện MatLab giải các bài toán đó.
+Traditional solving exercises and then design a Matlab designer app to solution those problems. 
 Version MatLab R2023a.
